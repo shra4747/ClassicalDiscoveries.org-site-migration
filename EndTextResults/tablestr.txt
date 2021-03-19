@@ -1,0 +1,889 @@
+
+        <div
+      class="fl-module fl-module-rich-text fl-node-60095f7898484 fl-editable fl-editable-focused"
+      data-node="60095f7898484"
+      data-parent="6009533b1e79d"
+      data-type="rich-text"
+      data-name="Text Editor"
+    >
+      <div class="fl-module-content fl-node-content">
+        <div
+          class="fl-rich-text mce-content-body mce-edit-focus"
+          id="mce_19"
+          contenteditable="true"
+          style="position: relative"
+          spellcheck="false"
+        >
+          <p><strong>Wednesday, March 10, 2021 </strong></p>
+          <p>
+            18-TH ANNUAL "IN PRAISE OF WOMAN" - Part 3 - AMERICAN WOMEN COMPOSERS
+          </p>
+        </div>
+      </div>
+
+      <div
+        id="fl-inline-editor-60095f7898484"
+        class="fl-inline-editor"
+        style="display: none"
+      >
+        <div
+          id="mceu_74"
+          class="mce-tinymce mce-tinymce-inline mce-container mce-panel fl-inline-editor-active-toolbar"
+          hidefocus="1"
+          tabindex="-1"
+          role="application"
+          style="border-width: 1px; left: 0px; top: 0px; width: 0px; height: 0px"
+        >
+          <div
+            id="mceu_74-body"
+            class="mce-container-body mce-abs-layout"
+            style="width: 0px; height: 0px"
+          >
+            <div id="mceu_74-absend" class="mce-abs-end"></div>
+            <div
+              id="mceu_75"
+              class="mce-toolbar-grp mce-container mce-panel mce-abs-layout-item mce-first mce-last"
+              hidefocus="1"
+              tabindex="-1"
+              role="group"
+              style="left: 0px; top: 0px; width: 0px; height: 0px"
+            >
+              <div
+                id="mceu_75-body"
+                class="mce-container-body mce-stack-layout"
+                style="width: 0px; height: 0px"
+              >
+                <div
+                  id="mceu_76"
+                  class="mce-container mce-toolbar mce-stack-layout-item mce-first mce-last"
+                  role="toolbar"
+                >
+                  <div id="mceu_76-body" class="mce-container-body mce-flow-layout">
+                    <div
+                      id="mceu_77"
+                      class="mce-container mce-flow-layout-item mce-first mce-btn-group"
+                      role="group"
+                    >
+                      <div id="mceu_77-body">
+                        <div
+                          id="mceu_66"
+                          class="mce-widget mce-btn mce-first mce-active"
+                          tabindex="-1"
+                          aria-pressed="true"
+                          role="button"
+                          aria-label="Bold"
+                        >
+                          <button
+                            id="mceu_66-button"
+                            role="presentation"
+                            type="button"
+                            tabindex="-1"
+                          >
+                            <i class="mce-ico mce-i-bold"></i>
+                          </button>
+                        </div>
+                        <div
+                          id="mceu_67"
+                          class="mce-widget mce-btn"
+                          tabindex="-1"
+                          aria-pressed="false"
+                          role="button"
+                          aria-label="Italic"
+                        >
+                          <button
+                            id="mceu_67-button"
+                            role="presentation"
+                            type="button"
+                            tabindex="-1"
+                          >
+                            <i class="mce-ico mce-i-italic"></i>
+                          </button>
+                        </div>
+                        <div
+                          id="mceu_68"
+                          class="mce-widget mce-btn"
+                          tabindex="-1"
+                          aria-pressed="false"
+                          role="button"
+                          aria-label="Strikethrough"
+                        >
+                          <button
+                            id="mceu_68-button"
+                            role="presentation"
+                            type="button"
+                            tabindex="-1"
+                          >
+                            <i class="mce-ico mce-i-strikethrough"></i>
+                          </button>
+                        </div>
+                        <div
+                          id="mceu_69"
+                          class="mce-widget mce-btn"
+                          tabindex="-1"
+                          aria-pressed="false"
+                          role="button"
+                          aria-label="Insert/edit link"
+                        >
+                          <button
+                            id="mceu_69-button"
+                            role="presentation"
+                            type="button"
+                            tabindex="-1"
+                          >
+                            <i class="mce-ico mce-i-link"></i>
+                          </button>
+                        </div>
+                        <div
+                          id="mceu_70"
+                          class="mce-widget mce-btn mce-last"
+                          tabindex="-1"
+                          aria-pressed="false"
+                          role="button"
+                          aria-label="Underline"
+                        >
+                          <button
+                            id="mceu_70-button"
+                            role="presentation"
+                            type="button"
+                            tabindex="-1"
+                          >
+                            <i class="mce-ico mce-i-underline"></i>
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      id="mceu_78"
+                      class="mce-container mce-flow-layout-item mce-last mce-btn-group"
+                      role="group"
+                    >
+                      <div id="mceu_78-body">
+                        <div
+                          id="mceu_71"
+                          class="mce-widget mce-btn mce-first"
+                          tabindex="-1"
+                          aria-pressed="false"
+                          role="button"
+                          aria-label="Align left"
+                        >
+                          <button
+                            id="mceu_71-button"
+                            role="presentation"
+                            type="button"
+                            tabindex="-1"
+                          >
+                            <i class="mce-ico mce-i-alignleft"></i>
+                          </button>
+                        </div>
+                        <div
+                          id="mceu_72"
+                          class="mce-widget mce-btn"
+                          tabindex="-1"
+                          aria-pressed="false"
+                          role="button"
+                          aria-label="Align centre"
+                        >
+                          <button
+                            id="mceu_72-button"
+                            role="presentation"
+                            type="button"
+                            tabindex="-1"
+                          >
+                            <i class="mce-ico mce-i-aligncenter"></i>
+                          </button>
+                        </div>
+                        <div
+                          id="mceu_73"
+                          class="mce-widget mce-btn mce-last"
+                          tabindex="-1"
+                          aria-pressed="false"
+                          role="button"
+                          aria-label="Align right"
+                        >
+                          <button
+                            id="mceu_73-button"
+                            role="presentation"
+                            type="button"
+                            tabindex="-1"
+                          >
+                            <i class="mce-ico mce-i-alignright"></i>
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+                    <div
+  class="fl-module fl-module-pp-table fl-node-6009533b1e4de tb"
+  data-node="6009533b1e4de"
+  data-parent="6009533b1e79d"
+  data-type="pp-table"
+  data-name="Table"
+>
+  <div class="fl-module-content fl-node-content">
+    <div class="pp-table-wrap">
+      <div class="tablesaw-bar mode-stack"></div>
+      <table
+        class="pp-table-6009533b1e4de pp-table-content tablesaw tablesaw-stack"
+        data-tablesaw-mode="stack"
+        data-tablesaw-minimap=""
+        id="table-5842"
+      >
+        <thead>
+          <tr>
+            <th
+              id="pp-table-col-1"
+              class="pp-table-col"
+              scope="col"
+              data-tablesaw-sortable-col=""
+            >
+              Composer
+            </th>
+            <th
+              id="pp-table-col-2"
+              class="pp-table-col"
+              scope="col"
+              data-tablesaw-sortable-col=""
+            >
+              Work
+            </th>
+            <th
+              id="pp-table-col-3"
+              class="pp-table-col"
+              scope="col"
+              data-tablesaw-sortable-col=""
+            >
+              Performers
+            </th>
+            <th
+              id="pp-table-col-4"
+              class="pp-table-col"
+              scope="col"
+              data-tablesaw-sortable-col=""
+            >
+              label
+            </th>
+            <th
+              id="pp-table-col-5"
+              class="pp-table-col"
+              scope="col"
+              data-tablesaw-sortable-col=""
+            >
+              Air Time
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+         
+            <tr class="pp-table-row odd">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Castellano, Jennifer<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">The Castle at Sunrise (Opening)</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Jennifer Castellano, Piano</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Castellano</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">7:01</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row even">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Bloomer Deussen, Nancy<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">American Hymn</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Robert Ian Winstin, The Czech Philharmonic</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">ERM Media - ERM-6812</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">7:02</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row odd">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Price, Florence Beatrice<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Dances in the Canebrakes</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Althea Waites</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Cambria</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">7:06</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row even">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Bernofsky, Lauren<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Two Latin Dances (2015) For Trombone And Piano:</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Natalie Mannix; Stephanie Bruning</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">MSR Classics - MS 1658</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">7:17</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row odd">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Woods, Sherry Martin<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Wisdom Fanfare</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Robert Ian Winstin: Kiev Philharmonic</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">ERM Media - ERM-6708</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">7:27</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row even">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Richter, Marga<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Kyrie For String Quintet</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Motyl String Quartet & Pawel Knapic</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Leonarda - LE 358</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">7:31</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row odd">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Harbach, Barbara<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Spaindango, Caprice For Harpsichord (C.1985)</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Harbach, Barbara, 1963 Herz Harpsichord</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Gasparo - GSCD-266</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">7:38</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row even">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Rahbee, Dianne Goolkasian<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Rhapsodie</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Diane Andersen, Piano, Matav Hungarian Symphony Orchestra, David Alexander Rahbee, conductor</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Uratu Recital - RCD 056</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">7:42</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row odd">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Garrop, Stacy<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Silver Dagger</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Heare Ensemble</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Innova - 040</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">7:49</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row even">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Perry, Zenobia Powell<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Piano Potpourri - No. 11. Round and round</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Josephine Gandolfi</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Cambria - CD-1235</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">7:57</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row odd">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Gardner, Kay<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Rainforest</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Bournemouth Sinfonietta (Carolann Martin)</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Leonarda - LE 327</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">7:59</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row even">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Albert, Adrienne<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Doppler Effect</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Fire Pink Trio</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">MSR Classics - MS 1511</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">8:07</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row odd">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Giroux, Julie<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Carnaval!</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Bruce Gilkes: University Of North Texas Symphonic Band</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Klavier - K 11202 H.</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">8:16</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row even">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Miller, Cynthia<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Bird Quartet: Herons in Winter</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Amernet String Quartet</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">MSR Classics - MS 1685</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">8:21</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row odd">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Worthington, Rain<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Within Deep Currents</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Janacek Philharmonic Orchestra, Stanislav Vavrinek, conductor</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Navona - NV6337</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">8:33</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row even">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">de Kenessey, Stefania<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">"Woke Up this Morning"</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Allison Charney, soprano, Donna Weng Friedman, piano</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">HER/MUSIC; HER/STORY</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">8:39</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row odd">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Sherman, Kim<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Composition from "The Clara Cycle"</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Allison Charney, soprano, Donna Weng Friedman, piano</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">HER/MUSIC; HER/STORY</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">8:42</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row even">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Sherman, Kim<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">I Roar from "The Clara Cycle"</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Allison Charney, soprano, Kelly Hall-Tompkins , violin, Donna Weng Friedman, pian</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">HER/MUSIC; HER STORY</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">8:45</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row odd">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Higdon, Jennifer<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">The Jeffrey Mode I</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Jennifer Higdon, flute, Hugh Sung, piano</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Virtuosi Records - IVR 501</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">8:54</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row even">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Shatin, Judith<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Khamsa</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">UVA Percussion Ensemble, I-Jen Fang, dir.</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Innova - 025</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">9:01</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row odd">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Shapiro, Alex<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">BENEATH</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">)Fox Valley Orchestra, Stephen Squires, conductor</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Published by Activist Music LLC (ASCAP</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">9:05</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row even">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Price, Katherine<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Heliotrope</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Trio Casals | Sylvia Ahramjian, Violin; Ovidiu Marinescu, Cello; Anna Kislitsyna, Piano</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Navona - NV6341</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">9:19</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row odd">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Ricciardi, Jennifer<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Four Marian Antiphons: 1. Alma Redemptoris Mater</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Coro Volante & Brett Scott</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Ablaze - ar-00040</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">9:23</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row even">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Washington, Shelley<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Middleground Bright Shiny Things</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Publiquartet</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">BSTC-0126</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">9:37</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row odd">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Austin, Elizabeth R<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">An American Triptych - Rag / Quodlibet</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">Ulrich Urban, Piano</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">Navona Records - NV6304</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">9:48</span>
+                </td>
+            </tr>
+             
+            <tr class="pp-table-row even">
+                <td>
+                    <b class="tablesaw-cell-label">Composer</b>
+                    <span class="tablesaw-cell-content">Capers, Valerie<span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Work</b>
+                    <span class="tablesaw-cell-content">Sweet Mister Jelly Roll</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Performers</b>
+                    <span class="tablesaw-cell-content">William Chapman Nyaho</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">label</b>
+                    <span class="tablesaw-cell-content">MSR Classics - MS 1708</span>
+                </td>
+                <td>
+                    <b class="tablesaw-cell-label">Air Time</b>
+                    <span class="tablesaw-cell-content">9:57</span>
+                </td>
+            </tr>
+            
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+    
