@@ -11,7 +11,6 @@ weirdformat = False
 
 
 fileName = str(input("File Name: "))
-year = str(input("Year: "))
 composerIndex = 0
 workIndex = 1
 performersIndex = 2
@@ -70,7 +69,7 @@ def mainSongFunc(table):
             elif index == 1:
                 currentStuff.append(item)
                 index += 1
-            
+
         if index == 0:
             fullStuff.append(currentStuff)
             currentStuff = []
@@ -136,7 +135,7 @@ for table in (tables):
     if "Wednesday, " in strTable or "Thursday, " in strTable or "Friday, " in strTable or "Saturday, " in strTable or "Sunday, " in strTable or "Monday, " in strTable or "Tuesday, " in strTable:
         if "May" in str(strTable) or "June" in str(strTable) or "July" in str(strTable) or "August" in str(strTable) or "September 02" in str(strTable) or "September 07" in str(strTable) or "September 09" in str(strTable):
             weirdformat = True
-        
+
         titletds = table.find_all('td')
         item = str(titletds[0].text)
         item = item.replace(u'\xa0', u' ')
@@ -219,5 +218,5 @@ for table in (tables):
                 current_description = description
 
 
-with open(f'YearDataJSON/{fileName}.json', 'w') as fout:
+with open(f'/Users/shravanp/Coding/FOP/Big-Projects/DrRosen/YearDataJSON/{fileName}.json', 'w') as fout:
     json.dump(all_data_of_page, fout)

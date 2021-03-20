@@ -7,7 +7,7 @@ import os
 from bs4 import BeautifulSoup
 
 fileName = str(input("File Name: "))
-year = str(input("Year: "))
+
 composerIndex = 0
 workIndex = 1
 performersIndex = 2
@@ -225,5 +225,5 @@ for table in (tables):
 
 
 # print(all_data_of_page)
-with open(f'YearDataJSON/{fileName}.json', 'w') as fout:
+with open(f'/Users/shravanp/Coding/FOP/Big-Projects/DrRosen/YearDataJSON/{fileName}.json', 'w') as fout:
     json.dump(all_data_of_page, fout)
