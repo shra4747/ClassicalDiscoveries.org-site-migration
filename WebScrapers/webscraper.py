@@ -4,6 +4,7 @@ import json
 import sys
 import re
 import os
+import unicodedata
 from bs4 import BeautifulSoup
 
 fileName = str(input("File Name: "))
@@ -31,6 +32,9 @@ tables.pop(0)
 def mainSongFunc(table):
     tds = table.find_all('td')
     index = 0
+    isDuarte = False
+    isJorun = False
+    isJoep = False
     fullStuff = []
     currentStuff = []
     for td in tds:
@@ -39,23 +43,49 @@ def mainSongFunc(table):
         item = item.replace("\r", "")
         item = item.replace("\n", "")
         item = re.sub(' +', ' ', item)
+        item = unicodedata.normalize('NFKD', item).encode(
+            'ascii', 'ignore').decode()
         item = item.encode("ascii", "ignore")
         item = item.decode()
+        item = item.replace("\t", "")
 
-        try:
-            if item == "" or item == None:
-                continue
-            elif item[0] == " ":
-                item = item[1:]
+        if index == 0 and isJorun:
+            fullStuff.append(currentStuff)
+            currentStuff = ["-:--"]
+            index += 1
+            isJorun = False
+            continue
 
-            if item[(len(item))-1] == " ":
-                item = item[:-1]
-        except:
-            print("SOMETHING WRONG v OK!")
+        if index == 2 and "Echo Collective Deutsche Grammophon - 483 5209 8" in item:
+            isJoep = True
 
-        print(item)
-        print(index)
-        print("\n\n\n\n")
+        if index == 3 and isJoep:
+            isJoep = False
+            currentStuff.append("--")
+            index += 1
+            continue
+
+        if item == "" or item == None or item == " ":
+            continue
+
+        if index == 1 and "Sinfonia A5 No7" in item:
+            isDuarte = True
+
+        if index == 1 and "Sinfonia A5 No.1" in item:
+            isDuarte = True
+
+        if index == 4 and isDuarte:
+            isDuarte = False
+            currentStuff.append("-:--")
+            index += 1
+            continue
+
+        if index == 2 and "Folk Suite In 5 Movements For Violin And Piano: No. 3, Folk Song" in item:
+            isJorun = True
+
+        if index == 2 and "Folk Suite In 5 Movements For Violin And Piano: No. 4, Air" in item:
+            isJorun = True
+
         if index == 0:
             fullStuff.append(currentStuff)
             currentStuff = []
@@ -68,12 +98,13 @@ def mainSongFunc(table):
             index = 0
             currentStuff.append(item)
 
-    print(currentStuff)
     # Remove Empty Array
 
     fullStuff.append(currentStuff)
 
-    print(fullStuff)
+    for forin in fullStuff:
+        print(forin)
+        print("\n\n\n\n")
     fullStuff.pop(0)
 
     playlist = []
@@ -199,31 +230,6 @@ for table in (tables):
                     print("Error")
                 current_date = date
                 current_description = description
-    # usage = input("Usage??: ")
-    # if usage == "n" or usage == "d":
-    #     fieldIndex = "n"
-    # else:
-    #     fieldIndex = input("Fields Normal or Custom (a for airtime first!)?:")
-    # if fieldIndex == "n":
-    #     composerIndex = 0
-    #     workIndex = 1
-    #     performersIndex = 2
-    #     labelIndex = 3
-    #     air_timeIndex = 4
-    # elif fieldIndex == "a":
-    #     composerIndex = 1
-    #     workIndex = 2
-    #     performersIndex = 3
-    #     labelIndex = 4
-    #     air_timeIndex = 0
-    # elif fieldIndex == "c":
-    #     composerIndex = int(input("Composer Index:"))
-    #     workIndex = int(input("Work Index:"))
-    #     performersIndex = int(input("Performers Index:"))
-    #     labelIndex = int(input("Label Index:"))
-    #     air_timeIndex = int(input("Air Time Index:"))
 
-
-# print(all_data_of_page)
 with open(f'/Users/shravanp/Coding/FOP/Big-Projects/DrRosen/YearDataJSON/{fileName}.json', 'w') as fout:
     json.dump(all_data_of_page, fout)

@@ -1,6 +1,6 @@
 import json
 
-with open('2021.json') as f:
+with open('/Users/shravanp/Coding/FOP/Big-Projects/DrRosen/YearDataJSON/2021.json') as f:
     data = json.load(f)
 
 date = ""
