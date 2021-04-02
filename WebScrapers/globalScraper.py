@@ -8,6 +8,7 @@ import unicodedata
 from bs4 import BeautifulSoup
 
 fileName = str(input("File Name: "))
+date = str(input('Date?: '))
 
 composerIndex = 0
 workIndex = 1
@@ -20,7 +21,7 @@ current_description = ""
 all_data_of_page = []
 
 # Define URL and BS4
-URL = 'http://www.classicaldiscoveries.org/playlists_2019.html'
+URL = f'http://www.classicaldiscoveries.org/playlists_{date}.html'
 page = requests.get(URL)
 soup = BeautifulSoup(page.content, 'html.parser')
 
