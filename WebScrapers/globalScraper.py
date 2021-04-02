@@ -20,7 +20,7 @@ current_description = ""
 all_data_of_page = []
 
 # Define URL and BS4
-URL = 'http://www.classicaldiscoveries.org/playlists_2020.html'
+URL = 'http://www.classicaldiscoveries.org/playlists_2019.html'
 page = requests.get(URL)
 soup = BeautifulSoup(page.content, 'html.parser')
 
@@ -166,6 +166,9 @@ def mainSongFunc(table):
 for table in (tables):
     strTable = str(table)
     print(strTable)
+    if "playlist" in strTable.lower() and "go to" in strTable.lower():
+        continue
+
     if "Wednesday " in strTable or "Wednesday, " in strTable:
         whatToDo = "d"
     elif "composer" in strTable.lower() and "work" in strTable.lower() and "performers" in strTable.lower():
@@ -175,7 +178,11 @@ for table in (tables):
 
     if whatToDo == "d":
         titletds = table.find_all('td')
-        item = str(titletds[0].text)
+        try:
+            item = str(titletds[0].text)
+        except:
+            current_date = str(input("What is the Date?: "))
+            current_description = str(input("What is the Description?: "))
         item = item.replace(u'\xa0', u' ')
         item = item.replace("\r", "")
         item = item.replace("\n", "")
