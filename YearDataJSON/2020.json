@@ -105,7 +105,7 @@
   },
   {
     "date": "Sunday, December 27 2020 ",
-    "description": "nday, December 28, 2020 - 12:00 VIVA 21ST CENTURY - 2020 - 24-HOUR -50/50 - Part 1 INTERNATIONAL EDITION - LIVE FROM HOME WPRB RADIO BROADCAST",
+    "description": "VIVA 21ST CENTURY - 2020 - 24-HOUR -50/50 - Part 1 INTERNATIONAL EDITION - LIVE FROM HOME WPRB RADIO BROADCAST",
     "playlist": [
       {
         "composer": "Castellano, Jennifer (USA)",
@@ -3227,6 +3227,13 @@
     "description": "",
     "playlist": [
       {
+        "composer": "Classical Discoveries Opening Theme",
+        "work": "Jennifer Castellano",
+        "performers": "--",
+        "label": "0:38",
+        "air time": "Castellano, Jennifer"
+      },
+      {
         "composer": "Loud, Sixteen Letters, Op. 96",
         "work": "Amsterdam Loeki Stardust Quartet",
         "performers": "Channel Classics - CCS SA 25707",
@@ -3370,8 +3377,15 @@
   },
   {
     "date": "Wednesday, September 07, 2020 ",
-    "description": "LACK POWER - music by Black Composers",
+    "description": "BLACK POWER - music by Black Composers",
     "playlist": [
+      {
+        "composer": "Louisiana Blues Strut (A Cakewalk) for solo violin",
+        "work": "Rachel Barton Pine",
+        "performers": "Cedille - CDR 90000 182",
+        "label": "7:00",
+        "air time": "Perkinson, Coleridge-Taylo"
+      },
       {
         "composer": "Carnival",
         "work": "Moravian Philharmonic Winds",
@@ -3490,6 +3504,13 @@
     "date": "Wednesday, September 02, 2020 ",
     "description": "ISABELLA LEONARDA AT 400",
     "playlist": [
+      {
+        "composer": "Classical Discoveries Opening Theme",
+        "work": "Jennifer Castellano",
+        "performers": "--",
+        "label": "0:38",
+        "air time": "Castellano, Jennifer"
+      },
       {
         "composer": "Sonata Decima - Opus 16, No. 10 The Palindrome",
         "work": "--",
@@ -3615,6 +3636,13 @@
     "date": "Wednesday, August 26, 2020 ",
     "description": "",
     "playlist": [
+      {
+        "composer": "Classical Discoveries Opening Theme",
+        "work": "Jennifer Castellano",
+        "performers": "--",
+        "label": "0:38",
+        "air time": "Castellano, Jennifer"
+      },
       {
         "composer": "An Old Photograph From The Grandparents' Childhood (2000)",
         "work": "Liza Stepanova, Piano",
@@ -3762,6 +3790,13 @@
     "description": "THE AUSSIE LADIES ARE COMING! More playlists with Music from Australia, New Zealand, South Africa",
     "playlist": [
       {
+        "composer": "Classical Discoveries Opening Theme",
+        "work": "Jennifer Castellano",
+        "performers": "--",
+        "label": "0:38",
+        "air time": "Castellano, Jennifer"
+      },
+      {
         "composer": "Toccata for Two",
         "work": "Bonnie Brown & Louisa Breen",
         "performers": "Big Dwarf Music",
@@ -3908,6 +3943,13 @@
     "description": "",
     "playlist": [
       {
+        "composer": "Classical Discoveries Opening Theme",
+        "work": "Jennifer Castellano",
+        "performers": "--",
+        "label": "0:38",
+        "air time": "Castellano, Jennifer"
+      },
+      {
         "composer": "Dixit Dominus",
         "work": "Mysterium Vocis, Cappella de' Turchini, Antonio Florio",
         "performers": "Opus 111  - OPS 30-210",
@@ -4046,6 +4088,13 @@
     "date": "Wednesday, August 05, 2020 ",
     "description": "",
     "playlist": [
+      {
+        "composer": "Classical Discoveries Opening Theme",
+        "work": "Jennifer Castellano",
+        "performers": "--",
+        "label": "0:38",
+        "air time": "Castellano, Jennifer"
+      },
       {
         "composer": "It Rained! The Ants Ran",
         "work": "Yael Manor, piano",
@@ -4186,6 +4235,13 @@
     "description": "",
     "playlist": [
       {
+        "composer": "Classical Discoveries Opening Theme",
+        "work": "Jennifer Castellano",
+        "performers": "--",
+        "label": "0:38",
+        "air time": "Castellano, Jennifer"
+      },
+      {
         "composer": "Paul's Steeple",
         "work": "Les Witches",
         "performers": "Alpha - 502",
@@ -4310,6 +4366,13 @@
     "date": "Wednesday, July 22, 2020 ",
     "description": "",
     "playlist": [
+      {
+        "composer": "Classical Discoveries Opening Theme",
+        "work": "Jennifer Castellano",
+        "performers": "--",
+        "label": "0:38",
+        "air time": "Castellano, Jennifer"
+      },
       {
         "composer": "Only In Sleep",
         "work": "iSing Silicon Valley",
@@ -4436,6 +4499,13 @@
     "description": "",
     "playlist": [
       {
+        "composer": "Classical Discoveries Opening Theme",
+        "work": "Jennifer Castellano",
+        "performers": "--",
+        "label": "0:38",
+        "air time": "Castellano, Jennifer"
+      },
+      {
         "composer": "Laudate Dominum a 5 da Cappella, Canto, Alto, due Tenori e Basso, con quattro Istromenti se piace, e tre parti di Ripieno",
         "work": "---",
         "performers": "--",
@@ -4554,6 +4624,13 @@
     "description": "",
     "playlist": [
       {
+        "composer": "Classical Discoveries Opening Theme",
+        "work": "Jennifer Castellano",
+        "performers": "--",
+        "label": "0:38",
+        "air time": "Castellano, Jennifer"
+      },
+      {
         "composer": "Percussion Symphon - Entr'Acte I: Vergine Bella",
         "work": "The New Jersey Percussion Ensemble",
         "performers": "Nonesuch",
@@ -4664,6 +4741,13 @@
     "date": "Wednesday, July 01, 2020 ",
     "description": "",
     "playlist": [
+      {
+        "composer": "Classical Discoveries Opening Theme",
+        "work": "Jennifer Castellano",
+        "performers": "--",
+        "label": "0:38",
+        "air time": "Castellano, Jennifer"
+      },
       {
         "composer": "Spark",
         "work": "Adam Marks, piano",
@@ -4776,6 +4860,13 @@
     "description": "",
     "playlist": [
       {
+        "composer": "Yugen",
+        "work": "Benjamin Grow, conductor",
+        "performers": "Dollybird Music",
+        "label": "4:56",
+        "air time": "Cornish, Jane Antonia"
+      },
+      {
         "composer": "Mottectum: Salve Regina, a 5",
         "work": "Cantar Lontano",
         "performers": "E Lucevan Le Stelle",
@@ -4880,6 +4971,13 @@
     "description": "Women Composers",
     "playlist": [
       {
+        "composer": "Mary, Maiden Glorious",
+        "work": "Hljomeyki Chamber Choir",
+        "performers": "Smekkleysa - SMK23",
+        "label": "6:58",
+        "air time": "Grimsdottir, Bara"
+      },
+      {
         "composer": "Sitar Concerto \"Mangal Dhwani\"",
         "work": "Hasu Patel, sitar, Doctors Orchestra of Houston, Libi Label, conductor",
         "performers": "Hasu Patel",
@@ -4976,6 +5074,13 @@
     "date": "Wednesday, June 10, 2020 ",
     "description": "I CAN'T BREATHE",
     "playlist": [
+      {
+        "composer": "I Can't Breathe",
+        "work": "Sergio Cervetti, piano",
+        "performers": "Navona Records 2:22",
+        "label": "2:22",
+        "air time": "Cervetti, Sergio"
+      },
       {
         "composer": "Symphony No. 10 \"Symphony for Ferguson\"",
         "work": "London Philharmonic Orchestra, David Angus",
@@ -5081,6 +5186,20 @@
     "description": "",
     "playlist": [
       {
+        "composer": "Ave Maria - a sei voci",
+        "work": "Bernard Fabre-Garrus, conductor",
+        "performers": "Naive",
+        "label": "6:20",
+        "air time": "Bencini, Pietro-Paolo"
+      },
+      {
+        "composer": "Piano Concerto No. 4",
+        "work": "Murad Adigozalzade, piano, Azerbaijan State Symphony Orchestra, Yalchin Adigozalov, conductor",
+        "performers": "Azerbaijan International",
+        "label": "29:42",
+        "air time": "Adigozal, Vasif"
+      },
+      {
         "composer": "Of Numbers & Of Bells, Op. 79",
         "work": "Timothy Hester & Nancy Weems, pianos",
         "performers": "Albany Records",
@@ -5149,6 +5268,13 @@
     "date": "Wednesday, May 27, 2020 ",
     "description": "",
     "playlist": [
+      {
+        "composer": "Classical Discoveries Opening Theme",
+        "work": "Jennifer Castellano",
+        "performers": "--",
+        "label": "0:38",
+        "air time": "Castellano, Jennifer"
+      },
       {
         "composer": "Ineo Op. 29",
         "work": "Grex Vocalis, The Rainbow Orchestra, Christian Eggen, conductor",
@@ -5247,6 +5373,13 @@
     "description": "",
     "playlist": [
       {
+        "composer": "We Won't Let You Down",
+        "work": "---",
+        "performers": "ACO Collective",
+        "label": "-:--",
+        "air time": "Nicolas, Natalie"
+      },
+      {
         "composer": "Animisms",
         "work": "Australia Ensemble",
         "performers": "--",
@@ -5326,7 +5459,7 @@
       {
         "composer": "Courage",
         "work": "Clare McCaldin, mezzo-soprano, Paul Turner, piano",
-        "performers": "       Cardoso, Manuel - Non Mortui  - Girton",
+        "performers": "Cardoso, Manuel - Non Mortui  - Girton",
         "label": "-:--",
         "air time": "Kakabadse, Lydia"
       },
