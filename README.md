@@ -1,6 +1,6 @@
 # Dr. Rosen Project
 
-![PYTHON](https://img.shields.io/badge/Python->v3-brightgreen?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge) ![VERSION](https://img.shields.io/badge/VERSION-0.1-blue?style=for-the-badge) ![PLATFORM](https://img.shields.io/badge/Platform-MacOS,%20Windows,%20Linux-lightgray?style=for-the-badge) ![LATEST](https://img.shields.io/badge/Latest%20update-2021/3/18-red?style=for-the-badge)
+![PYTHON](https://img.shields.io/badge/Python->v3-brightgreen?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge) ![VERSION](https://img.shields.io/badge/VERSION-5.0-blue?style=for-the-badge) ![PLATFORM](https://img.shields.io/badge/Platform-MacOS,%20Windows,%20Linux-lightgray?style=for-the-badge) ![LATEST](https://img.shields.io/badge/Latest%20update-2021/4/3-red?style=for-the-badge)
 
 ### New and Previous Song Search
 
